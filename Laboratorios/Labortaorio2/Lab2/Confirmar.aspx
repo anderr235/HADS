@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form2" runat="server">
         <div style="height: 750px">
             <asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Size="30pt" style="top: 41px; left: 691px; position: absolute; height: 68px; width: 354px" Text="Confirmación"></asp:Label>
         </div>
